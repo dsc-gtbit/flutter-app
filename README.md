@@ -1,5 +1,5 @@
 # flutter-app
-A simple Flutter App structure where the students need to code and make a simple ui as per there choice.
+A simple Flutter App structure where the students need to code and make a simple User Interface as per there choice.
 The android folder contains all the android related files.
 The iOS folder contains all the iOS related files.
 Dont make any changes in the above two folders.
